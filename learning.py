@@ -1,2 +1,2 @@
 ## Branches
-print("Learning Branches and Pull Request")
+print("Learning Branches and Pull Requests")
